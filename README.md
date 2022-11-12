@@ -1,2 +1,2 @@
-# ID1212-Na-tverksprogrammering
+# ID1212-Naätverksprogrammering
 KTH cours ID1212Nätverksprogrammering
