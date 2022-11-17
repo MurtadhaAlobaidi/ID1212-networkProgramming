@@ -3,6 +3,7 @@ KTH cours ID1212Nätverksprogrammering
 
 # lab 1
   * Test
-      `javac ChatServer.java && java ChatServer 8888`
+      `javac Server.java && java Server`
+    * New commando`javac Client.java && java Client`
     * In the web peg: 
-     `http://localhost:8888/ask?hostname=whois.iis.se&port=43&string=kth.se&limit=100`
+     `http://localhost:8090/student-shell.sys.kth.se`
