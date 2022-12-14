@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+https://www.google.com/search?q=crate+ract+app+with+router+bootstrap&oq=crate+ract+app+with+router+boot&aqs=chrome.1.69i57j33i10i160l2j33i22i29i30l7.15565j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:1b8fa0b8,vid:t4Zax3c2TuI 
